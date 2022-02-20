@@ -1,4 +1,4 @@
-# Spring framework 기초
+# Spring framework 공부
 
 + 환경
   + *Java 11*
